@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveen8009-gif
 - 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...programming
+- 🌱 I’m currently learning ...programming and machine learning related project 
 - 💞️ I’m looking to collaborate on ...github.com
 - 📫 How to reach me ...google,microsoft
 
